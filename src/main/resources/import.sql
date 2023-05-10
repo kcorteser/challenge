@@ -1,0 +1,17 @@
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-01-01','Año Nuevo','Civil',1,'Civil e Irrenunciable');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-01-02','Feriado Adicional','Civil',0,'Civil');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-04-07','Viernes Santo','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-04-08','Sábado Santo','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-05-01','Día Nacional del Trabajo','Civil',1,'Civil e Irrenunciable');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-05-21','Día de las Glorias Navales','Civil',0,'Civil');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-06-21','Día Nacional de los Pueblos Indígenas','Civil',0,'Civil');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-06-26','San Pedro y San Pablo','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-07-16','Día de la Virgen del Carmen','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-08-15','Asunción de la Virgen','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-09-18','Independencia Nacional','Civil',1,'Civil e Irrenunciable');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-09-19','Día de las Glorias del Ejército','Civil',1,'Civil e Irrenunciable');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-10-09','Encuentro de Dos Mundos','Civil',0,'Civil');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-10-27','Día de las Iglesias Evangélicas y Protestantes','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-11-01','Día de Todos los Santos','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-12-08','Inmaculada Concepción','Religioso',0,'Religioso');
+INSERT INTO details(date,title,type,inalienable,extra) VALUES ('2023-12-25','Navidad','Religioso',1,'Religioso e Irrenunciable');
